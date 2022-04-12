@@ -4,3 +4,4 @@ build/
 out/
 project.xcworkspace/
 xcuserdata/
+xcode/LearnOpenGL.build/Debug
